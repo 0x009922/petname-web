@@ -43,6 +43,7 @@ import Generator from "./Generator.vue";
     <ul>
       <li><a href="https://github.com/0x009922/petname-web" target="_blank">Source code</a></li>
       <li><a href="https://jsr.io/@quacumque/petname" target="_blank">JSR Package</a></li>
+      <li><a href="https://quacumque.net" target="_blank">quacumque.net</a> (root)</li>
     </ul>
   </main>
 </template>
