@@ -2,4 +2,4 @@
 
 Simple petname generator Web UI.
 
-https://0x009922.github.io/petname-web
+https://petname.quacumque.net
