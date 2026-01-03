@@ -8,11 +8,7 @@ import Generator from "./Generator.vue";
 
     <p class="subtitle">Generate human-readable, random names for objects (e.g. hostnames, containers, blobs)</p>
 
-    <hr>
-
     <Generator />
-
-    <hr>
 
     <h2>
       About
